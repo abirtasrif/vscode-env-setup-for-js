@@ -24,4 +24,4 @@
 
 ```
 
-6. download and put the files `.eslintrc.json` and `package.json` to your project. run `yarn install` in terminal.
+6. download and put the files `.eslintrc.json`,`yarn.lock` and `package.json` to your project. run `yarn install` in terminal.
